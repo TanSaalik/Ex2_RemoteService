@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex2_RemoteService</string>
+    <string name="changeColor">Change Color</string>
+    <string name="sendMessage">Send Message</string>
+</resources>
